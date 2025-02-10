@@ -61,11 +61,14 @@ The extracted data is saved in `blog_data.json` in the following format:
 
 ## How to Run the Script
 1. Clone or download the script.
+   ```sh
+   git clone https://github.com/abrarshahh/WebScraping_beautifulsoup.git
+   ```
 2. Install dependencies using:
    ```sh
    pip install beautifulsoup4 requests
    ```
-3. Run the code in `scraping.ipynb`
+3. Run the python script `scraping.py`
 4. The extracted blog data will be saved in **blog_data.json**.
 
 ---
